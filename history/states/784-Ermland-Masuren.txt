@@ -9,8 +9,9 @@ state={
 		owner = SHW
 		add_core_of = LHA
 		add_core_of = BLR
+		add_core_of = SHW
 		victory_points = {
-			3320 3
+			3320 20
 		}
 		buildings = {
 			infrastructure = 3 #was: 5

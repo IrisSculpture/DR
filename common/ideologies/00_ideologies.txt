@@ -111,8 +111,8 @@ ideologies = {
 			Moderate_Socialism={}
 			Massimalismo ={}
 			Revolutionary-front = {}
-			social_new_sanmin = {}
-			new_sanmin_socialism = {}
+			social_sanmin = {}
+			sunwen_sanmin = {}
 		}
 		dynamic_faction_names = {
 		}
@@ -144,7 +144,7 @@ ideologies = {
 			Fabian_Socialism={}
 			Union_Socialism={}
 			Bernstein_Reformism={}
-			New_Sanmin_Doctrine={}
+			sanmin-reformism={}
 			national-socdem = {}
 			revolutionary-corporatism = {}
 			Dannunzionism_Ref = {}
@@ -183,9 +183,9 @@ ideologies = {
 			Conservative_Liberalism={}
 			Progressive_Liberalism={}
 			Hamiltonian_Liberalism = {}
-			Sanmin_Liberalism = {}
+			sanmin-liberalism = {}
 			national-liberalism = {}
-			Welfare_Sanmin_Doctrine={}
+			progressive-sanmin={}
 			oligarchic-liberalism={}
 			Lib-Big-tent = {}
 			comprador-liberalism = {}
@@ -237,7 +237,7 @@ ideologies = {
 			Populist_Conservatism={}
 			Liberal_Conservatism = {}
 			conservative-agarianism = {}
-			Conservative_Sanmin_Doctrine= {}
+			conservative-sanmin= {}
 			oligarchic-conservatism = {}
 			jacksonian-conservatism = {}
 			Co-Big-tent = {}
@@ -287,7 +287,8 @@ ideologies = {
 			caudillo-paternalist-democracy = {}
 			tribalism = {}
 			oligarchic-semi-democratic-liberalism = {}
-			Paternalist_Constitutional_Sanmin_Doctrine={}
+			sanmin-paternalism={}
+			progressive-sanmin-paternalism={}
 			semidem-cm-liberalism = {}
 			semidem-progressivism = {}
 		}
@@ -329,7 +330,9 @@ ideologies = {
 			aristocratic-monarchy = {}
 			civilian-dictatorship = {}
 			pseudo-rev-rea-aut = {}
-			pseudo-sanmin-autocracy = {}
+			party-state-warlordism = {}
+			party-state-autocracy = {}
+			institutional-revolutionary-autocracy = {}
 			comprador-dictatorship = {}
 			autocratic-colonial-government = {}
 			caudillo-dictatorship = {}
@@ -343,6 +346,8 @@ ideologies = {
 			bonaparte-autocracy = {}
 			bonaparte-auto-cm = {}
 			multinational-colony = {}
+			Edinogist_Colonization = {}
+			interim_government = {}
 		}
 		
 		dynamic_faction_names = {
@@ -382,7 +387,6 @@ ideologies = {
 		types = {
 			Hybrid_Nationalism = {}
 			Edinogism = {}
-			Edinogist_Colonization = {}
 			Dannunzionism_N={}
 			National_Populism={}
 			National_Syndicalism={}
@@ -422,7 +426,7 @@ ideologies = {
 		}
 	}
 	
-	###极端反动主义###
+	###新反动主义###
 	Ultrareactionism = {
 		types = {
 			Ultrareactionism={}

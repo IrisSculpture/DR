@@ -11,6 +11,8 @@ BNA_Sir_Harry_Edward_Spiller_Cordeauxn_Khoyski:0 "哈里·科多"
 
 BNA_Robert_Ray_Hamilton:0 "罗伯特·雷·汉密尔顿"
 
+NTB_ali_ii_ibn_muhsin_ibn_husayn:0 "阿里二世·伊本·穆赫辛"
+
 HBR_GuiFu:0 "贵福"
 
 WUP_TanYanKai:0 "谭延闿"
@@ -71,6 +73,8 @@ IRL_Eamon_de_Valera:0 "埃蒙·德·瓦莱拉"
 
 IRL_John_Denton_Pinkstone:0 "约翰·弗伦奇"
 
+IRL_Ian_Macpherson:0 "伊恩·麦克弗森"
+
 UBA_Black_Army_Committee:0 "黑军委员会"
 
 KSR_Kronstadt_sailor:0 "喀琅施塔得水兵委员会"
@@ -97,12 +101,13 @@ ROY_Yahya_Hamid_al_Din:0 "叶海亚·哈米德丁"
 
 SHW_Georgy_Lviv:0 "格奥尔基·李沃夫"
 
+SHW_Aleksei_Aladin:0 "阿列克谢·阿拉丁"
+
 SCX_YangSuKan:0 "杨庶堪"
 
 SCX_ZhangLan:0 "张澜"
 
 SHW_Alexander_Ivanovich_Dubrovin:0 "亚历山大·杜布罗文"
-
 
 SHW_Nikolai_Evgenievich_Markov:0 "尼古拉·马尔科夫"
 
@@ -113,7 +118,7 @@ ELS_Jorge_Melendez:0 "豪尔赫·梅伦德斯"
 
 PMA_Henry_I:0 "恩里克一世"
 
-HON_Rafael_Lopez_Gutierrez:0 "R·L·古铁雷斯"
+HON_Rafael_Lopez_Gutierrez:0 "拉斐尔·洛佩斯·古铁雷斯"
 
 TCY_Leopold_Salvator:0 "利奥波多三世"
 
@@ -249,17 +254,27 @@ SSD_ChenXiaLing:0 "陈遐龄"
 
 SHH_ChenQiMei:0 "陈其美"
 
-XJC_YangZengXin:0 "杨增新"
-
-XJC_FengDaShu:0 "冯大树"
+XJC_FengTeMing:0 "冯特民"
 
 XJC_FangYaoNan:0 "樊耀南"
 
 XJC_YangZangXu:0 "杨缵绪"
 
-XJC_FengTeMing:0 "冯特民"
+XJC_FengDaShu:0 "冯大树"
 
 XJC_HaoKeQuan:0 "郝可权"
+
+XJC_Masud_Sabri:0 "麦斯武德"
+
+XJC_MaShaoWu:0 "马绍武"
+
+XJC_jinshuren:0 "金树仁"
+
+XJC_Zhouwuxue:0 "周务学"
+
+XJC_zhang_peiyuan:0 "张培元"
+
+XJC_yang_feixia:0 "杨飞霞"
 
 XJC_ShengShiCai:0 "盛世才"
 
@@ -343,6 +358,8 @@ HUS_Luigi_Luzzatti:0 "路易吉·鲁萨蒂"
 VCT_Archduke_Karl:0 "卡尔大公"
 
 VCT_Archduke_Karl2:0 "卡尔大公"
+
+VCT_Archduke_Karl_backup:0 "卡尔大公"
 
 BXM_Tomas_Garrigue_Masaryk:0 "托马斯·马萨里克"
 
@@ -474,7 +491,7 @@ WWS_Albert_Grzesinski:0 "阿尔伯特·卡尔·格热辛斯基"
 
 LMN_Ferdinand_I:0 "斐迪南一世"
 
-BNA_Charles_Evans_Hughes:0 "C·E·休斯"
+BNA_Charles_Evans_Hughes:0 "查尔斯·埃文斯·休斯"
 
 TCY_Leopoldo_III_Toscana:0 "利奥波多三世"
 
@@ -734,7 +751,7 @@ ESI_Alexander_Bulatovich_desc:0 "§G生于：§ §W1870年9月26日§ \n§G故�
 
 KON_Li_Tuo:0 "李坧"
 
-FEL_Carl_Gustaf_Emil_Mannerheim:0 "卡尔·古斯塔夫·曼纳海姆"
+FEL_Carl_Gustaf_Emil_Mannerheim:0 "卡尔·曼纳海姆"
 
 IRL_Michael_Collins:0 "迈克尔·柯林斯"
 
@@ -750,8 +767,6 @@ NXS_Ma_HongKui:0 "马鸿逵"
 MZY_Ma_zhongying:0 "马仲英"
 
 SHH_Zhou_EngLai:0 "周恩来"
-
-XJC_ShengShiCai:0 "盛世才"
 
 FPE_Sun_ChuanFang:0 "孙传芳"
 
@@ -853,6 +868,8 @@ YED_Nikolaos_I:0 "尼古劳斯一世"
 
 LMJ_Pope_BenedictXV:0 "本笃十五世"
 
+LMJ_Pope_Pius_XI:0 "庇护十一世"
+
 FTX_WangFuLing:0 "万福麟"
 
 HLP_Xu_LangZhou:0 "许兰州"
@@ -952,6 +969,8 @@ PTY_Joao_de_Canto:0 "若昂·多坎托·卡斯特罗"
 
 AFH_Amanula_Khan:0 "阿曼努拉·汗"
 
+AFG_Nasrullah_Khan:0 "纳斯鲁拉·汗"
+
 GUB_WWSardo_Machado:0 "格拉尔多·马查多"
 
 BRA_Epitacio_Pessoa:0 "埃皮塔西奥·佩索阿"
@@ -1006,7 +1025,7 @@ GUA_Carlos_Herrera:0 "卡洛斯·伊鲁纳"
 
 HON_Francisco_Bogran:0 "弗朗西斯科·博格兰"
 
-NIC_Emiliano_Chamorro_Vargas:0 "埃米利亚诺·瓦加斯"
+NIC_Emiliano_Chamorro_Vargas:0 "E·查莫罗·瓦加斯"
 
 ELS_Alfonso_Quinonez_Molina:0 "阿方索·莫利纳"
 
@@ -1144,8 +1163,6 @@ SCX_LiuWengHui:0 "刘文辉"
 SHH_DaiLi:0 "戴笠"
 
 SHH_WangYaQiao:0 "王亚樵"
-
-XJC_jinshuren:0 "金树仁"
 
 SCX_LaiXinHui:0 "赖心辉"
 
@@ -1734,7 +1751,7 @@ QIN_PuLun:0 "爱新觉罗·溥伦"
 
 ZAN_bin_harub_al_busaidi:0 "本·哈鲁卜"
 
-ASS_Mahammad_Yayyo:0 "穆罕默德·亚约"
+ASS_Mahammad_Yayyo:0 "亚约·穆罕默德"
 
 NFL_Richard_Squires:0 "理查德·斯奎尔斯"
 
@@ -1751,3 +1768,121 @@ DAS_Erwin_von_Zach:0 "埃尔温·冯·查赫"
 CAC_Chester_Harding:0 "切斯特·哈丁"
 
 SZC_George_Lloyd:0 "乔治·劳埃德"
+
+GGZ_Alfred_Brooke-Smith:0 "阿尔·布鲁克·史密斯"
+
+YED_panagiotis_danglis: "帕拉约蒂斯·赞格利斯"
+ YED_pavlos_kountouriotis: "帕夫洛斯·孔图里奥蒂斯"
+ YED_constantin_moschopoulos: "康斯坦丁·莫绍普洛斯"
+ YED_dimitrios_rallis: "季米特里奥斯·拉利斯"
+ YED_alexandros_zaimis: "亚历山德罗斯·扎伊米斯"
+ YED_dimitrios_gounaris: "季米特里奥斯·古纳里斯"
+ YED_spiridon_lambros: "斯皮里冬·兰布罗斯"
+ YED_nikolaos_stratos: "尼科劳斯·斯特拉托斯"
+ YED_petros_protopapadakis: "佩特罗斯·普罗托帕帕扎基斯"
+ YED_emmanouil_repoulis: "埃马努伊尔·雷普利斯"
+ YED_mark_kerr: "马克·克尔"
+ YED_nikolaos_trikoupis: "尼科劳斯·特里库皮斯"
+ YED_emmanouil_zymvrakakis: "埃马努伊尔·辛布拉卡基斯"
+ YED_konstantinos_nider: "康斯坦丁诺斯·奈德"
+ YED_anastasios_papoulas: "阿纳斯塔西奥斯·帕普拉斯"
+ YED_leonidas_paraskevopoulos: "莱昂尼达斯·帕拉斯基沃普洛斯"
+ YED_georgios_hatzianestis: "乔治斯·哈齐亚内斯提斯"
+ YED_konstantinos_sapountzakis: "康斯坦丁诺斯·萨蓬察基斯"
+ YED_georgios_kondylis: "乔治斯·康迪利斯"
+ YED_victor_dousmanis: "维克多·杜斯马尼斯"
+ YED_platon_drakoulis: "普拉东·兹拉库利斯"
+ YED_stefanos_dragoumis: "斯特凡诺斯·兹拉古米斯"
+ YED_georgios_christakis_zografos: "乔治斯·赫里斯塔基·佐格拉福斯"
+ YED_andreas_michalakopoulos: "安德烈亚斯·米哈拉科普洛斯"
+ YED_alexandros_papanastasiou: "亚历山德罗斯·帕帕纳斯塔西乌"
+ YED_leonidas_empeirikos: "莱昂尼达斯·恩比里科斯"
+ YED_paulos_gyparis: "帕夫洛斯·吉帕里斯"
+ YED_ionas_dragoumis: "扬·兹拉古米斯"
+ YED_germanos_karavaggelis: "耶尔马诺斯·卡拉万杰利斯"
+ YED_konstantinos_koumoundouros: "康斯坦丁诺斯·库蒙多罗斯"
+ YED_dimitrios_kamperos: "季米特里奥斯·坎伯罗斯"
+ YED_michail_moutousis: "米哈伊尔·穆图西斯"
+ YED_nikolaos_zorbas: "尼科劳斯·佐尔帕斯"
+ YED_nikolaos_votsis: "尼科劳斯·沃特西斯"
+ YED_sofoklis_dousmanis: "索福克利斯·祖斯马尼斯"
+ YED_georgios_kakoulidis: "乔治斯·卡库利季斯"
+ YED_alexandros_hatzikyriakos: "亚历山德罗斯·哈齐基里亚科斯"
+ YED_konstantinos_kallaris: "康斯坦丁诺斯·卡拉里斯"
+ YED_nikolaos_theotokis: "尼古劳斯·塞奥托基斯"
+ YED_georgios_mpaltantzis: "乔治斯·巴尔塔齐斯"
+ YED_nikos_dimitratos: "尼科斯·迪米特拉托斯"
+ YED_nikolaos_yannios: "尼科劳斯·雅尼奥斯"
+ YED_konstantinos_moschopoulos: "康斯坦丁诺斯·莫斯霍普洛斯"
+ YED_dimitris_ioannou: "迪米特里斯·约安努"
+ YED_anastasios_charalambis: "阿纳斯塔西奥斯·哈拉兰比斯"
+ YED_georgios_polymenakos: "乔治斯·波利梅纳科斯"
+ YED_metropolitan_chrysostom: "赫里索斯托莫斯大主教"
+ YED_aristeidis_stergiadis: "阿里斯蒂季斯·斯特伊亚季斯"
+ YED_dimosthenis_ligdopoulos: "狄摩西尼·利格多普洛斯"
+ YED_epameinondas_zymvrakakis: "伊巴密浓达·辛弗拉卡基斯"
+ YED_ioannis_ipitis: "扬尼斯·伊庇蒂斯"
+ YED_emmanouil_manousogiannakis: "埃马努伊尔·马努索扬纳基斯"
+ YED_andreas_kopasis: "安德烈亚斯·科帕西斯"
+ YED_grigorios_vegleris: "格里戈里奥斯·韦格莱里斯"
+ YED_themistoklis_sofoulis: "塞米斯托克利斯·索富利斯"
+ YED_ioannis_malachias: "扬尼斯·马拉希亚斯"
+ YED_petros_soumilas: "佩特罗斯·苏米拉斯"
+ YED_ioannis_metaxas:0 "扬尼斯·梅塔克萨斯"
+ YED_eleftherios_venizelos:0 "埃莱夫塞里奥斯·韦尼泽洛斯"
+ YED_theodoros_pangalos:0 "塞奥佐罗斯·潘加洛斯"
+ YED_nikolaos_plastiras:0 "尼科劳斯·普拉斯蒂拉斯"
+ YED_stylianos_gonatas:0 "斯蒂利亚诺斯·戈纳塔斯"
+ YDA_john_nixon: "约翰·尼克松"
+ YDA_alexander_cobbe: "亚历山大·科贝"
+ YDA_sir_william_duke: "威廉·杜克"
+ YDA_gilbert_elliot: "吉尔伯特·埃利奥特"
+ YDA_charles_hardinge: "查尔斯·哈丁"
+ YDA_sir_charles_townshend: "查尔斯·汤曾德"
+ YDA_bal_gangadhar_tilak: "巴尔·甘加达尔·蒂拉克"
+ YDA_keshav_baliram_hedgewar: "凯沙夫·巴利拉姆·赫德盖瓦"
+ YDA_manabendra_nath_roy: "马纳本德拉·纳特·罗伊"
+ YDA_mohandas_karamchand_gandhi: "莫罕达斯·卡拉姆昌德·甘地"
+ YDA_abul_kalam_azad: "阿布尔·卡拉姆·阿扎德"
+ YDA_vallabhbhai_patel: "瓦拉巴伊·帕特尔"
+ YDA_jawaharlal_nehru: "贾瓦哈拉尔·尼赫鲁"
+ YDA_james_willcocks: "詹姆斯·威尔考克斯"
+ YDA_havelock_hudson: "哈夫洛克·哈德森"
+ YDA_walter_braithwaite: "沃尔特·布雷思韦特"
+ YDA_reginald_dyer: "雷吉纳德·戴尔"
+  YDA_wilfrid_malleson: "威尔弗里德·马勒森"
+ YDA_arthur_a_barrett: "阿瑟·阿诺德·巴雷特"
+
+TSI_alberto_pollio: "阿尔贝托·波利奥"
+  ITE_luigi_cadorna: "路易吉·卡多尔纳"
+
+ ITE_emanuele_filiberto: "埃马努埃莱·菲利贝托·迪萨伏伊-奥斯塔"
+ ITE_Gaetano_Giardino: "加埃塔诺·贾迪诺"
+ ITE_pietro_badoglio: "彼得罗·巴多格里奥"
+  ITE_alberto_cavaciocchi: "阿尔贝托·卡瓦乔基"
+   ITE_enrico_caviglia: "恩里科·卡维利亚"
+    ITE_mario_nicolis_di_robilant: "马里奥·尼科利斯·迪罗比兰特"
+	 ITE_vittorio_camerana: "维托里奥·卡梅拉纳"
+	  ITE_giacinto_ferrero: "贾钦托·费列罗"
+	  ITE_ugo_cavallero: "乌戈·卡瓦莱罗"
+	   ITE_luigi_nava: "路易吉·纳瓦"
+ 
+ TSI_armando_diaz: "阿尔曼多·迪亚斯"
+  TSI_luca_montuori: "卢卡·蒙托里"
+   TSI_giulio_douhet: "朱利奥·杜黑"
+
+ VCT_alberico_albricci: "阿尔贝里科·阿尔布里奇"
+  VCT_maurizio_ferrante_gonzaga: "毛里齐奥·费兰特·冈萨加"
+   VCT_roberto_brusati: "罗贝尔托·布鲁萨蒂"
+    VCT_giorgio_emo_capodilista: "乔治·埃莫·迪·卡波迪利斯塔"
+	 VCT_carlo_caneva: "卡洛·卡内瓦"
+	  VCT_pietro_frugoni: "彼得罗·弗鲁戈尼"
+	   VCT_giuseppe_ettore_vigano: "朱塞佩·埃托雷·维加诺"
+	    VCT_arnaldo_azzi: "阿纳尔多·阿兹"
+
+ TCY_pecori_giraldi: "古列尔莫·佩科里·吉拉尔迪"
+
+ITC_emilio_de_bono: "埃米利奥·德·博诺"
+ITC_randolfo_pacciardi: "兰多尔福·帕恰尔迪"
+ITC_argo_secondari: "阿尔戈·塞孔达里"
+ITC_edmondo_rossoni: "埃德蒙多·罗索尼"

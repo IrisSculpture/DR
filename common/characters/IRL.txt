@@ -56,4 +56,18 @@ characters={
 			id=-1
 		}
 	}		
+	IRL_Ian_Macpherson={
+		name=IRL_Ian_Macpherson
+		portraits={
+			civilian={
+				large="gfx/leaders/IRL/Portrait_John_Denton_Pinkstone.tga"
+			}
+		}
+		country_leader={
+			ideology=civilian-dictatorship
+			traits={  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}		
 	}

@@ -109,6 +109,9 @@ focus_tree = {
 					set_nationality = ITE
 				 }
 			 }
+			 set_variable = {
+                global.crook-in-pied = 1
+            }
 			 
 		}
 	}

@@ -463,6 +463,10 @@ illyrian_war_boom = {
             end_puppet = DMT
             end_puppet = SIW
         }
+        KOH = {clear_variable = in_a_sphere
+		clear_variable = sphere_country}
+        SIW = {clear_variable = in_a_sphere
+		clear_variable = sphere_country}
         KOH = {leave_faction = yes}
         DMT = {leave_faction = yes}
         SIW = {leave_faction = yes

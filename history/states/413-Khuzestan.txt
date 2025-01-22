@@ -13,7 +13,8 @@ state={
 	
 
 	history={
-		owner = YEL
+		owner = MUH
+		add_core_of = MUH
 		buildings = {
 			infrastructure = 3 #was: 5
 			5005 = {
@@ -21,7 +22,10 @@ state={
 			}
 		}
 		victory_points = {
-			7953 1 
+			7953 15
+		}
+		victory_points = {
+			5005 20
 		}
 	}
 

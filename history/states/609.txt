@@ -9,8 +9,8 @@ state={
 	state_category = town
 
 	history={
-		owner = ZHX
-		add_core_of = ZHX
+		owner = DUQ
+		add_core_of = DUQ
 		buildings = {
 			infrastructure = 3 #was: 5
 			arms_factory = 1
@@ -18,12 +18,19 @@ state={
 			3900 = {
 				naval_base = 2
 			}
+			13382 = {
+				bunker = 5
+
+			}
+		}
+		victory_points = {
+			13382 10
 		}
 		
 	}
 
 	provinces={
-		900 1052 3830 3900 6969 11822 12043 9905
+		900 1052 3830 3900 6969 11822 12043 9905 13382
 	}
 
 	local_supplies=0.0 

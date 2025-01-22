@@ -1,4 +1,4 @@
-﻿capital = 610
+﻿capital = 608
 
 oob = "DUQ_1920"
 
@@ -61,6 +61,7 @@ set_politics = {
 }
 
 set_popularities = {
-	Dictatorship = 90
-	Paternalism = 10
+	Dictatorship = 92
+	Liberalism = 4
+	Revolutionism = 4
 }

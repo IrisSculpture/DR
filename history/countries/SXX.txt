@@ -59,6 +59,5 @@ add_ideas = {
 	Smallholder_economy
 }
 set_popularities = {
-	Dictatorship = 80
-	Paternalism = 20
+	Dictatorship = 100
 }

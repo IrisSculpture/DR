@@ -404,6 +404,9 @@ news_event = {
     }
 	option = {
 		name = Hidden_News.22.a
+		LMJ = {
+			retire_country_leader = yes
+		}
 	}		
 }
 ##news_event = {

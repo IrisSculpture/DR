@@ -1,0 +1,39 @@
+
+state={
+	id=1223
+	name="STATE_1223"
+	resources={
+		grain=5
+	}
+	
+	history={
+		owner = IRL
+		
+		
+		victory_points = {
+			385 4 # Londonderry
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+			dockyard = 2
+			
+		}
+		add_core_of = IRL
+	}
+	
+	provinces={
+		 385 11257 
+	}
+	manpower=1198537
+	buildings_max_level_factor=1
+	state_category="city"
+	
+	resources={
+		aluminium=2
+	}
+
+	local_supplies=0.0 
+}

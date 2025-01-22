@@ -96,3 +96,4 @@ set_popularities = {
 }
 give_guarantee = KON
 give_guarantee = PHL
+give_guarantee = GGZ

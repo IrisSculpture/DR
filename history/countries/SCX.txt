@@ -92,9 +92,10 @@ add_ideas = {
 	SCX_Dooka_Army
 }
 set_popularities = {
-	Anarchism = 58
-	Dictatorship = 40
-	Liberalism = 2
+	Anarchism = 49
+	Dictatorship = 31
+	Liberalism = 17
+	Revolutionism = 3
 }
 set_autonomy = {
 	target = SSD

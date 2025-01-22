@@ -56,5 +56,6 @@ set_politics = {
 
 set_popularities = {
 	Dictatorship = 80
-	Liberalism = 20
+	Liberalism = 17
+	Revolutionism = 3
 }

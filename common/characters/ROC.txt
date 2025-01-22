@@ -7,7 +7,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=Paternalist_Constitutional_Sanmin_Doctrine
+			ideology=sanmin-paternalism
 			traits={  }
 			expire="1965.1.1.1"
 			id=-1
@@ -22,7 +22,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=Paternalist_Constitutional_Sanmin_Doctrine
+			ideology=sanmin-paternalism
 			desc=ROC_Song_JiaoRen_DESC
 			traits={  }
 			expire="1965.1.1.1"
@@ -37,7 +37,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=social_new_sanmin
+			ideology=social_sanmin
 			traits={  }
 			expire="1965.1.1.1"
 			id=-1
@@ -51,7 +51,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=Paternalist_Constitutional_Sanmin_Doctrine
+			ideology=sanmin-paternalism
 			traits={  }
 			expire="1965.1.1.1"
 			id=-1

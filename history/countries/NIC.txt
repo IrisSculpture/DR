@@ -1,6 +1,6 @@
 ﻿capital = 317
 
-oob = "NIC_1936"
+oob = "NIC_1920"
 
 # Starting tech
 set_technology = {
@@ -26,3 +26,6 @@ set_popularities = {
 	Conservatism = 75.1
 	Liberalism = 24.9
 }
+give_military_access = BNA
+give_military_access = UBS
+give_military_access = ENL

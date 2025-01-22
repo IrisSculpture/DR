@@ -72,7 +72,7 @@ add_ideas = {
 
 #law
 
-closed_economy
+export_focus
 atheism
 Traditional_conservatism
 Local_police
@@ -84,6 +84,5 @@ completely_illiterate
 Smallholder_economy
 }
 set_popularities = {
-	Dictatorship = 90
-	Paternalism = 10
+	Dictatorship = 100
 }

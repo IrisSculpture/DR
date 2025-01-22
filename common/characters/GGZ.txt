@@ -1,0 +1,16 @@
+characters={
+	GGZ_Alfred_Brooke-Smith={
+		name=GGZ_Alfred_Brooke-Smith
+		portraits={
+			civilian={
+				large="gfx/leaders/GGZ/Portrait_Alfred_Brooke-Smith.tga"
+			}
+		}
+		country_leader={
+			ideology=civilian-dictatorship
+			traits={ }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}		
+}

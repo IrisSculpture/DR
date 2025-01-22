@@ -16,7 +16,7 @@ state={
 		add_core_of = VAN
 		owner = VAN
 		victory_points = {
-			4075 1 
+			4075 20 
 		}
 		buildings = {
 			infrastructure = 2

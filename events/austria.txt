@@ -65,7 +65,7 @@ country_event = {
 		}
 		set_variable = { global.pre_win_german_war = 1 }
 			
-		set_variable = { global.german_war = 1 }
+		set_variable = { global.german_war = 2 }
 		diplomatic_relation = { country = AOX relation = non_aggression_pact }
 		AOX = { dismantle_faction = yes }
 		if = {
@@ -806,9 +806,39 @@ country_event = {
 	option = {
 		name = aus4italian.1.a
 		news_event = ITANews.18
+		if = {
+			limit = {AOX = {controls_state = 1039}}
+			1039 = {
+				transfer_state_to = PMA
+			}
+			AOX = {set_autonomy = { target = PMA autonomy_state = autonomy_occupation_zone }}
+			PMA = {
+				set_politics = {
+					ruling_party = Dictatorship
+					last_election = "1918.11.11"
+					election_frequency = 72
+					elections_allowed = no
+				}
+			
+				
+				set_popularities = {
+					Dictatorship = 100
+				}
+			}
+		}
 		ITE = {leave_faction = yes}
 		AOX = {white_peace = ITE}
 		WWS = {white_peace = ITE}
+		735 = {
+			transfer_state_to = ITE
+		}
+		158 = {
+			transfer_state_to = ITE
+		}
+		941 = {
+			transfer_state_to = ITE
+		}
+		
 		ai_chance = {
             base = 80
         }

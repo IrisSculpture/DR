@@ -10,7 +10,7 @@ state={
 		owner = XJC
 		add_core_of = XJC
 		victory_points = {
-			10545 5
+			10545 2
 		}
 		buildings = {
 			infrastructure = 3
