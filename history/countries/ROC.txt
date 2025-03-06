@@ -12,6 +12,7 @@ set_technology = {
 	fuel_silos = 1
 }
 recruit_character = ROC_HuangXing
+recruit_character = ROC_SunWen1
 recruit_character = ROC_Song_JiaoRen
 recruit_character = ROC_LiaoZhongKai
 recruit_character = ROC_ChenQiMei
@@ -55,8 +56,6 @@ recruit_character = ROC_ZhangZhiZhong
 		
 	}
 	create_faction = ROC_faction
-	add_to_faction = XJC
-	add_to_faction = SCX
 
 set_politics = {
 	ruling_party = Paternalism

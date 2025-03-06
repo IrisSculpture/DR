@@ -2,7 +2,7 @@
 state={
 	id=608
 	name="京兆"
-	manpower = 9648400
+	manpower = 964840
 	
 	state_category = large_city
 
@@ -10,7 +10,7 @@ state={
 		owner = DUQ
 		add_core_of = DUQ
 		buildings = {
-			infrastructure = 3 #was: 5
+			infrastructure = 5 
 			industrial_complex = 2
 			air_base = 3
 		}
@@ -18,10 +18,13 @@ state={
 			13388 30
 		}
 		
+		victory_points = {
+			11761 10 
+		}
 	}
 
 	provinces={
-		9843 11761 4140 1134 13388
+		9843 11761 4140 13388 6969 11822 9776
 	}
 
 	local_supplies=1.0 

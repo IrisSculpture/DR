@@ -15,7 +15,6 @@ recruit_character = ZHX_CaoKung
 recruit_character = ZHX_Fen_YuXiang
 recruit_character = ZHX_WuPeiFu
 recruit_character = ZHX_Kong_XiangXi 
-recruit_character = ZHX_WangZhangYuan
 recruit_character = ZHX_Li_HongYuan
 recruit_character = ZHX_CaoRuLin
 recruit_character = ZHX_Zhang_Zongxiang
@@ -95,3 +94,4 @@ set_popularities = {
 	Liberalism = 4
 	Revolutionism = 4
 }
+give_guarantee = SSD

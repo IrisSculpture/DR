@@ -1,0 +1,25 @@
+state = {
+	id = 1262
+	name = "STATE_1262"
+	resources={
+		grain=1
+	}
+	history = {
+		owner = KKE
+		add_core_of = KKE
+		buildings = {
+			infrastructure = 1
+
+		}
+		
+	}
+
+	provinces = {
+		13418
+	}
+	manpower = 423
+	buildings_max_level_factor = 1.000
+	state_category = rural
+
+	local_supplies = 0.0 
+}

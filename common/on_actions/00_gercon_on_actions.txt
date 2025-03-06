@@ -268,8 +268,8 @@ on_actions = {
                         complete_national_focus = AUS_confederation_0
                     }
                 }
-                set_variable = { global.aus_win_german_war = 1 
-                global.german_war = 2}
+                set_variable = { global.aus_win_german_war = 1 }
+                set_variable = {global.german_war = 2}
                 DAS = { annex_country = { target = DSX transfer_troops = yes } 
                 
                     set_cosmetic_tag = DAS_TR
@@ -363,8 +363,8 @@ on_actions = {
                     check_variable = { global.aus_win_german_war = 0 }
                     check_variable = { global.pre_win_german_war = 0 }
                 }
-                set_variable = { global.pre_win_german_war = 1 
-                global.german_war = 2}
+                set_variable = { global.pre_win_german_war = 1 }
+                set_variable = {global.german_war = 2}
                 
                 
                 every_country = { country_event = ger_con.7 }

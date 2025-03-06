@@ -9,7 +9,7 @@ state={
 		add_core_of = ROC
 		add_core_of = ZHX
 		victory_points = {
-			13380 25
+			13380 30
 		}
 		buildings = {
 			infrastructure = 4 

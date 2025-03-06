@@ -17,20 +17,20 @@ state={
 		add_core_of = MUH
 		buildings = {
 			infrastructure = 3 #was: 5
-			5005 = {
-				naval_base = 1
+			13407 = {
+				naval_base = 3
 			}
 		}
 		victory_points = {
-			7953 15
+			7953 7
 		}
 		victory_points = {
-			5005 20
+			13407 9
 		}
 	}
 
 	provinces={
-		5005 7953 
+		5005 7953 13407
 	}
 
 	local_supplies=0.0 

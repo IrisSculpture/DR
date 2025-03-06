@@ -14,7 +14,7 @@ set_stability = 0.7
 set_war_support = 0.7
 
 
-recruit_character = GGZ_Alfred_Brooke-Smith
+recruit_character = GGZ_Stirling_Fessenden
 
 
 set_politics = {

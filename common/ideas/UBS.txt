@@ -3,7 +3,6 @@ ideas = {
 		UBS_Slavery = {
 			picture = Slavery
 			modifier = {
-                stability_weekly = -0.02
                 conscription = 0.05
                 consumer_goods_factor = 0.02
                 production_factory_efficiency_gain_factor = 0.2
@@ -20,7 +19,7 @@ ideas = {
 		UBS_Jim_Crow_laws = {
 			picture = Jim_Crow_laws
 			modifier = {
-				stability_weekly_factor = -0.04
+				conscription = 0.05
 			}
         }
 		}

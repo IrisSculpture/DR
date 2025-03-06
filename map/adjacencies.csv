@@ -201,6 +201,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 1781;12598;impassable;-1;-1;-1;-1;-1;;altai mountains
 1781;4843;impassable;-1;-1;-1;-1;-1;;altai mountains
 1781;1778;impassable;-1;-1;-1;-1;-1;;altai mountains
+10560;1778;impassable;-1;-1;-1;-1;-1;;altai mountains
+7864;7727;impassable;-1;-1;-1;-1;-1;;altai mountains
 1781;7727;impassable;-1;-1;-1;-1;-1;;altai mountains
 4786;7727;impassable;-1;-1;-1;-1;-1;;altai mountains
 7803;10558;impassable;-1;-1;-1;-1;-1;;altai mountains

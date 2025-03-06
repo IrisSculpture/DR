@@ -8,16 +8,16 @@ state={
 		add_core_of = YED
 		add_core_of = TEQ
 		victory_points = {
-			10056 1 
+			10056 6 
 		}
 		victory_points = {
-			11746 5 
+			11746 8 
 		}
 		victory_points = {
-			11810 5 
+			11810 8
 		}
 		victory_points = {
-			4124 3 
+			4124 6
 		}
 		buildings = {
 			infrastructure = 2
@@ -29,7 +29,7 @@ state={
 	}
 
 	provinces={
-		806 886 4124 6956 10056 11746 11810 4008 7026
+		806 4124 6956 10056 11746 11810 4008 7026
 	}
 	manpower=411798
 	buildings_max_level_factor=1.000

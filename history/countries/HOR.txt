@@ -14,7 +14,7 @@ set_stability = 0.7
 set_war_support = 0.7
 #设置战争支持度
 
-
+recruit_character = HOR_Tiburcio_Carias_Andino
 
 
 set_politics = {

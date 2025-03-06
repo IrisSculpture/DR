@@ -1689,11 +1689,22 @@ illyrian_war_end = yes
 					DMT = { exists = yes }
 				}
 				DMT = {
-					
+					transfer_state = 918
+					add_state_core = 918
 					transfer_state = 764
 					add_state_core = 764
-                	
+                	transfer_state = 1018
+					add_state_core = 1018
+					transfer_state = 45
+					add_state_core = 45
 				}
+				KOH = {
+					remove_state_core = 918
+					remove_state_core = 764
+					remove_state_core = 1018
+					remove_state_core = 45
+				}
+				45 = {add_claim_by = KOH}
 			}
 				TRA = {
 					add_ideas = {
@@ -1712,9 +1723,15 @@ illyrian_war_end = yes
 					transfer_state = 1034
 					add_state_core = 1034
 					transfer_state = 1122
+					add_state_core = 1122
 				}
 				KOH = {
+					remove_state_core = 76
+					remove_state_core = 1019
+					remove_state_core = 82
 					remove_state_core = 83
+					remove_state_core = 84
+					remove_state_core = 1034
 					remove_state_core = 1122
 				}
 				AOX = {
@@ -1743,11 +1760,6 @@ illyrian_war_end = yes
 			KOH = {
 				remove_state_core = 920
 				remove_state_core = 921
-				transfer_state = 45
-				add_state_core = 45
-			}
-			DMT = {
-				remove_state_core = 45
 			}
 			mark_focus_tree_layout_dirty = yes
 		}

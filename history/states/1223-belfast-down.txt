@@ -8,7 +8,7 @@ state={
 	
 	history={
 		owner = IRL
-		
+		add_dynamic_modifier = {modifier=IRL_Furious_Alster}
 		
 		victory_points = {
 			385 4 # Londonderry
@@ -22,12 +22,13 @@ state={
 			
 		}
 		add_core_of = IRL
+		add_claim_by = ENL
 	}
 	
 	provinces={
 		 385 11257 
 	}
-	manpower=1198537
+	manpower=308537
 	buildings_max_level_factor=1
 	state_category="city"
 	

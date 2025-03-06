@@ -467,22 +467,6 @@ AFG_helpers = {
 	}
 }
 
-illwar_helpers = {
-	allowed = {
-		OR={
-		original_tag = SIW
-		}
-	}
-	enable = {
-		check_variable = {global.illyrian_war_str = 1}
-	}
-	ai_strategy = {
-		type = send_volunteers_desire
-		id = DMT
-		value = 1000
-	}
-}
-
 after_illwar_nohelpers = {
 	allowed = {
 		OR={

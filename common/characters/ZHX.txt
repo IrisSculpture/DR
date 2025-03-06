@@ -168,23 +168,6 @@ characters={
 			logistics_skill=3
 		}
 	}
-
-	ZHX_WangZhangYuan={
-		name=ZHX_WangZhangYuan
-		portraits={
-			army={
-				large="gfx/leaders/ZHX/portrait_WangZhangYuan.tga"
-			}
-		}
-		corps_commander={
-			traits={ Lieutenant_general }
-			skill=3
-			attack_skill=3
-			defense_skill=2
-			planning_skill=1
-			logistics_skill=2
-		}
-	}
 	ZHX_Kong_XiangXi={
 		name=ZHX_Kong_XiangXi
 		portraits={

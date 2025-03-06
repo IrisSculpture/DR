@@ -344,6 +344,7 @@ create_intelligence_agency = {
 		name = "奥克瑞纳情报局"
 		icon = GFX_intelligence_agency_logo_SHW
 }
+give_guarantee = KON
 set_politics = {
 	ruling_party = Dictatorship
 	last_election = "1918.11.11"
@@ -352,6 +353,11 @@ set_politics = {
 }
 set_autonomy = {
 	target = GGA
+	autonomy_state = autonomy_general_governorate
+}
+
+set_autonomy = {
+	target = VFE
 	autonomy_state = autonomy_general_governorate
 }
 
@@ -417,7 +423,7 @@ country_event = { id = SHW_event.34 days = 1274 }
 country_event = { id = SHW_event.34 days = 1574 }
 set_popularities = {
 	Dictatorship = 50
-	Ultrareactionism = 22
+	Neoreactionism = 22
 	Conservatism = 11.5
 	Liberalism = 12.5
 	Reformism = 1

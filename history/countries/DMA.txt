@@ -59,8 +59,8 @@ add_ideas={
 Smallholder_economy
 }
 set_popularities = {
-	Dictatorship = 50
-    Conservatism = 34.9
-	Liberalism = 15.1
+	Dictatorship = 95
+    Conservatism = 3.49
+	Liberalism = 1.51
 }
 give_military_access = BNA

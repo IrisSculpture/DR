@@ -14,6 +14,21 @@ characters={
 		}
 	}
 
+	ROC_SunWen1 = {
+		name=ROC_SunWen1
+		portraits={
+			civilian={
+				large="gfx/leaders/ROC/portrait_SunZhongShang.tga"
+			}
+		}
+		country_leader={
+			ideology=sanmin-paternalism
+			traits={  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
 	ROC_Song_JiaoRen={
 		name=ROC_Song_JiaoRen
 		portraits={

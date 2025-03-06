@@ -8,7 +8,7 @@ characters={
 		}
 		
 		country_leader={
-			ideology=national-socdem
+			ideology=Social_Democracy
 
 			traits={  }
 			expire="1965.1.1.1"
@@ -23,7 +23,7 @@ characters={
 					large="gfx/leaders/FUM/Portrait_Gabriele_d_Annunzio1.tga"
 				}
 			}
-			field_marshal = {
+			corps_commander = {
 				skill = 1
 				attack_skill = 1
 				defense_skill = 1
@@ -37,12 +37,28 @@ characters={
 				expire="1965.1.1.1"
 				id=-1
 			}
-		}	
+		}
+		ITC_Giacomo_Matteotti={
+			name=ITC_Giacomo_Matteotti
+			portraits={
+				civilian={
+					large="gfx/leaders/ITE/Portrait_Giacomo_Matteotti.tga"
+				}
+			}
+			
+			country_leader={
+				ideology=Social_Democracy
+	
+				traits={  }
+				expire="1965.1.1.1"
+				id=-1
+			}
+		}
 
 
 	
-	ITC_Giacomo_Matteotti={
-		name=ITC_Giacomo_Matteotti
+	ITC_Francesco_Saverio_Nitti={
+		name=ITC_Francesco_Saverio_Nitti
 		portraits={
 			civilian={
 				large="gfx/leaders/ITE/Portrait_Giacomo_Matteotti.tga"
@@ -50,7 +66,7 @@ characters={
 		}
 		
 		country_leader={
-			ideology=national-socdem
+			ideology=radicalism
 
 			traits={  }
 			expire="1965.1.1.1"
@@ -103,7 +119,22 @@ characters={
 		}
 		
 		country_leader={
-			ideology=Reactionist_National_Corporatism
+			ideology=Massimalismo
+			traits={ }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	ITC_Benito_Mussolini_fas={
+		name=ITC_Benito_Mussolini_fas
+		portraits={
+			civilian={
+				large="gfx/leaders/ITE/Portrait_Benito_Mussolini.tga"
+			}
+		}
+		
+		country_leader={
+			ideology=fascism
 			traits={ }
 			expire="1965.1.1.1"
 			id=-1

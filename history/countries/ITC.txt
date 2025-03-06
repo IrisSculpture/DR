@@ -10,6 +10,7 @@ set_technology = {
 	fuel_silos = 1
 }
 recruit_character = ITC_Filippo_Turati
+recruit_character = ITC_Francesco_Saverio_Nitti
 recruit_character = ITC_Giacomo_Matteotti
 recruit_character = ITC_Antonio_Gramsci
 recruit_character = ITC_Gabriele_d_Annunzio
@@ -67,9 +68,9 @@ Basic_industrialization
 Market_economy
 }
 set_popularities = {
-	Liberalism = 30
-	Revolutionism = 14.5
-	Moderate_Socialism = 13
-	Reformism = 11.5
-	Nationalism = 31
+	Liberalism = 33
+	Revolutionism = 5
+	Moderate_Socialism = 10
+	Reformism = 30
+	Nationalism = 22
 }

@@ -639,8 +639,6 @@ news_event = {
 				transfer_state = 96
 				transfer_state = 95
 				transfer_state = 204
-				transfer_state = 94
-				transfer_state = 194
 			}
 		}		
 }

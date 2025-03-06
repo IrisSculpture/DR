@@ -6,11 +6,11 @@ state={
 	resources={
 		grain=16
 	}
-	state_category = town
+	state_category = city
 
 	history={
-		owner = DUQ
-		add_core_of = DUQ
+		owner = ZHX
+		add_core_of = ZHX
 		buildings = {
 			infrastructure = 3 #was: 5
 			arms_factory = 1
@@ -18,19 +18,27 @@ state={
 			3900 = {
 				naval_base = 2
 			}
-			13382 = {
-				bunker = 5
+			13435 = {
+				bunker = 2
 
 			}
 		}
 		victory_points = {
-			13382 10
+			13435 5
 		}
-		
+		victory_points = {
+			3830 10 
+		}
+		victory_points = {
+			1052 8 
+		}
+		victory_points = {
+			3900 5 
+		}
 	}
 
 	provinces={
-		900 1052 3830 3900 6969 11822 12043 9905 13382
+		900 1052 3830 3900 12043 9905 13435
 	}
 
 	local_supplies=0.0 

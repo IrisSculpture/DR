@@ -56,3 +56,4 @@ set_politics = {
 set_popularities = {
 	Dictatorship = 100
 }
+give_military_access = SHW

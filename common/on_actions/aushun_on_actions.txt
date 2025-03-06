@@ -477,7 +477,14 @@ on_actions = {
                         ROOT = { tag = HUN }
                         ROOT = { tag = XYL }
                     }
-                    FROM = { tag = AOX }
+                    OR = {
+                        FROM = { tag = AOX }
+                        FROM = { tag = DMT }
+                        FROM = { tag = BXM }
+                        FROM = { tag = KGL }
+                        FROM = { tag = TRA }
+                    }
+                    check_variable = {global.hungarian_war = 1}
                     AOX = {
                         has_completed_focus = AUS_bir_14
                     }

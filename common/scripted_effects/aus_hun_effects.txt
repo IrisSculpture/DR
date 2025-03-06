@@ -515,15 +515,15 @@ illyrian_war_end_qwq = {
                 Austrian_Military_Advisor
             }
         }
-        if = {
-            limit = {
-                AOX = {
-                    OR = {
-                        has_completed_focus = AUS_bir_1
-                        has_completed_focus = AUS_bir_3
-                    }
-                }
-            }
+        #if = {
+           # limit = {
+          #      AOX = {
+          #          OR = {
+           #             has_completed_focus = AUS_bir_1
+          #              has_completed_focus = AUS_bir_3
+          #          }
+         #       }
+         #   }
             AOX = { set_autonomy = { target = DMT autonomy_state = autonomy_Crown_Territory } }
                 DMT = {
                     set_politics = {ruling_party = Dictatorship}
@@ -534,32 +534,32 @@ illyrian_war_end_qwq = {
                         Revolutionism = 10
                     }
                 }
-        }
-        else = {
+                KOH = { country_event = aushun.9 }
+       #}
+        #else = {
             # DMT = {
             #    remove_ideas = {
             #        Part_of_Habsburgs
             #    }
             # }
-            every_state = {
-                limit = {
-                    is_core_of = DMT
-                }
-                add_core_of = CRO
-            }
-            every_state = {
-                limit = {
-                    is_claimed_by = DMT
-                }
-                add_claim_by = CRO
-            }
-            CRO = {
-                annex_country = {
-                    target = DMT transfer_troops = yes
-                }
-            }
-        }
-        KOH = { country_event = aushun.9 }
+         #   every_state = {
+         #       limit = {
+        #            is_core_of = DMT
+        #        }
+        #        add_core_of = CRO
+        #    }
+        #    every_state = {
+        #        limit = {
+        #            is_claimed_by = DMT
+        #        }
+         #       add_claim_by = CRO
+        #    }
+          #  CRO = {
+         #       annex_country = {
+        #            target = DMT transfer_troops = yes
+        #        }
+        #    }
+       # }
     }
 }
 remake_aus_hun_stab = {

@@ -18,15 +18,15 @@ country_event = {
 
 	option = {
 		name = PAR.1.a
-		BLG = {retire_character = BLG_Jose_Pedro_Montero}
+		BLG = {promote_character = BLG_Manuel_Gondra}
 	}
 }
 
 country_event = {
-	id = PAR.1
+	id = PAR.2
 	hidden = yes
-	title = PAR.1.t
-	desc = PAR.1.d
+	title = PAR.2.t
+	desc = PAR.2.d
 
 	fire_only_once = yes
 	trigger = {
@@ -39,7 +39,7 @@ country_event = {
 
 	option = {
 		name = PAR.1.a
-		BLG = {retire_character = BLG_Manuel_Gondra}
+		BLG = {promote_character = BLG_Eusebio_Ayala}
 	}
 }
 

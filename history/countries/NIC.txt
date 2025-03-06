@@ -11,6 +11,7 @@ set_technology = {
 }
 
 recruit_character = NIC_Emiliano_Chamorro_Vargas
+recruit_character = NIC_Diego_Manuel_Chamorro
 
 set_country_flag = monroe_doctrine
 set_war_support = 0.1

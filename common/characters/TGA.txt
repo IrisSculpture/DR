@@ -1,10 +1,9 @@
 characters={
-	TGA_Alexei_Kuropatkin={
-		name=TGA_Alexei_Kuropatkin
+	TGA_Alexander_Samsonov={
+		name=TGA_Alexander_Samsonov
 		portraits={
 		army={
-			large="gfx/leaders/TGA/Portrait_Alexei_Kuropatkin.tga"
-			small="gfx/interface/ideas/Portrait_Alexei_Kuropatkin.dds"
+			large="gfx/leaders/TGA/TGA_Alexander_Samsonov.tga"
 		}
 	}
 	country_leader={
@@ -13,13 +12,13 @@ characters={
 		expire="1965.1.1.1"
 		id=-1
 	}
-	corps_commander={
-		traits={ Lieutenant_general }
-		skill=1
-		attack_skill=1
-		defense_skill=1
-		planning_skill=1
-		logistics_skill=1
+	field_marshal={
+		traits={  }
+		skill=3
+		attack_skill=2
+		defense_skill=3
+		planning_skill=2
+		logistics_skill=2
 	}
 	}		
 	}

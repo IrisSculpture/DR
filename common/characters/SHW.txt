@@ -696,7 +696,7 @@ SHW_Alexander_Ivanovich_Dubrovin={
 		}
 	}
 	country_leader={
-		ideology=Ultrareactionism
+		ideology=Neoreactionism
 		traits={  }
 		expire="1965.1.1.1"
 		id=-1

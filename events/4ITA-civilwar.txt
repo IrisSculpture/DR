@@ -301,9 +301,11 @@ country_event = {
 			set_variable = {
 			  global.crook-in-pied = 2
 		  }
-		  WWS_Alexander_Feng_Crook={
-			set_nationality = WWS
-		   }
+		  ITE = {
+			WWS_Alexander_Feng_Crook={
+			  set_nationality = WWS
+			 }
+			}
 		  }
 		}
 		
@@ -333,11 +335,6 @@ country_event = {
 			annex_country = {
 				target = PMA
 				transfer_troops = yes
-			}
-			PMA = {
-				every_unit_leader = {
-					set_nationality = ITE
-				}
 			}
 			set_cosmetic_tag = ITE1
 		}
@@ -627,16 +624,8 @@ country_event = {
 			check_variable = {global.ita_tookvin_4italian_war = 1}
 		}
 		OR = {#在or里
-		AOX = {#第一个条件，若在阵营中必须和普开战
-			
-		is_in_faction_with = DOR
-			date > 1920.2.1
-			NOT = {
-				has_war_with = WWS
-				check_variable = { global.german_war = 1 }
-			}
-		}
-		AND = {#第二个条件，打了3年结果摩德纳丢了
+		
+		AND = {#第一个条件，打了3年结果摩德纳丢了
 			date > 1923.7.6
 			OR = {
 				AOX = {controls_state = 161}
@@ -645,15 +634,31 @@ country_event = {
 		NOT = {
 			OR = {
 			AOX = {controls_province = 9904}
-			VCT = {controls_province = 9904}
 			AOX = {controls_province = 6780}
-			VCT = {controls_province = 6780}
+AOX = {controls_province = 13339}
 			}
 		}
 	}
-	aus_has_win_german_war = yes
-	#第三个条件，若奥赢德意志战争直接deadlock
+	AND = {
+		check_variable = {global.aus_win_german_war = 1}
+		NOT = {
+			OR = {
+			AOX = {controls_province = 9904}
+			AOX = {controls_province = 6780}
+AOX = {controls_province = 13339}
+			}
+		}
+	}
+	#第二个条件，若奥赢德意志战争直接deadlock
+	AND = {
 	check_variable = {global.geraus_alliance_4italian_war = 1}
+	NOT = {
+		OR = {
+		AOX = {controls_province = 9904}
+		AOX = {controls_province = 6780}
+		}
+	}
+	}
 	#第三个条件，德奥结盟
 }
 		check_variable = {global.4italian_war = 1}
@@ -851,9 +856,11 @@ immediate = {
 			set_variable = {
 			  global.crook-in-pied = 2
 		  }
-		  WWS_Alexander_Feng_Crook={
-			set_nationality = WWS
-		   }
+		  ITE = {
+			WWS_Alexander_Feng_Crook={
+			  set_nationality = WWS
+			 }
+			}
 		  }
 		
 		}
@@ -1057,9 +1064,11 @@ immediate = {
 			set_variable = {
 			  global.crook-in-pied = 2
 		  }
-		  WWS_Alexander_Feng_Crook={
-			set_nationality = WWS
-		   }
+		  ITE = {
+			WWS_Alexander_Feng_Crook={
+			  set_nationality = WWS
+			 }
+			}
 		  }
 		if = {
 			limit = {ITC = {exists = no}}
@@ -1168,9 +1177,11 @@ immediate = {
 			set_variable = {
 			  global.crook-in-pied = 2
 		  }
-		  WWS_Alexander_Feng_Crook={
-			set_nationality = WWS
-		   }
+		  ITE = {
+			WWS_Alexander_Feng_Crook={
+			  set_nationality = WWS
+			 }
+			}
 		  }
 			
 		}
@@ -1374,9 +1385,11 @@ immediate = {
 				set_variable = {
 				  global.crook-in-pied = 2
 			  }
-			  WWS_Alexander_Feng_Crook={
-				set_nationality = WWS
-			   }
+			  ITE = {
+				WWS_Alexander_Feng_Crook={
+				  set_nationality = WWS
+				 }
+				}
 			  }
 			
 		}
@@ -1425,11 +1438,9 @@ immediate = {
 		fire_only_once = yes
 		trigger = {
 			check_variable = {global.4italian_war = 1}
-			OR = {
-				ITE = {controls_state = 852}
-				ITC = {controls_state = 852}
-				RDN = {controls_state = 852}
-				FRW = {controls_state = 852}
+			NOT = {
+				AOX = {controls_state = 852}
+				HUN = {controls_state = 852}
 			}
 		}
 			immediate = {

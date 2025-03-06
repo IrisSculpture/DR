@@ -717,9 +717,11 @@ ger_con_decisions = {
         set_variable = {
           global.crook-in-pied = 2
       }
+      ITE = {
       WWS_Alexander_Feng_Crook={
         set_nationality = WWS
        }
+      }
       }
       AOX = { create_faction = "南德意志派" }
       WWS = { create_faction = "北德意志派" }
@@ -777,9 +779,11 @@ ger_con_decisions = {
         set_variable = {
           global.crook-in-pied = 2
       }
-      WWS_Alexander_Feng_Crook={
-        set_nationality = WWS
-       }
+      ITE = {
+        WWS_Alexander_Feng_Crook={
+          set_nationality = WWS
+         }
+        }
       }
       AOX = { create_faction = "南德意志派" }
       WWS = { create_faction = "北德意志派" }

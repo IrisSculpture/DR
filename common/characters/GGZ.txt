@@ -1,9 +1,9 @@
 characters={
-	GGZ_Alfred_Brooke-Smith={
-		name=GGZ_Alfred_Brooke-Smith
+	GGZ_Stirling_Fessenden={
+		name=GGZ_Stirling_Fessenden
 		portraits={
 			civilian={
-				large="gfx/leaders/GGZ/Portrait_Alfred_Brooke-Smith.tga"
+				large="gfx/leaders/GGZ/Portrait_Stirling_Fessenden.tga"
 			}
 		}
 		country_leader={

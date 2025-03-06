@@ -150,6 +150,7 @@ ideologies = {
 			Dannunzionism_Ref = {}
 			Ref-Big-tent = {}
 			social-radicalism = {}
+			new-nationalism = {}
 		}
 		dynamic_faction_names = {
 		}
@@ -191,7 +192,7 @@ ideologies = {
 			comprador-liberalism = {}
 			agarian-liberalism = {}
 			socialist-liberalism = {}
-			liberal-radicalism = {}
+			radicalism = {}
 		}
 		
 		dynamic_faction_names = {
@@ -281,7 +282,7 @@ ideologies = {
 	
 		types = {
 			Paternalism_type={}
-			Authoritarian_Civilian_Government = {}
+			shishen-contdem = {}
 			semi-democratic-constitutional-monarchy = {}
 			Nationalist_Paternalist_Democracy = {}
 			caudillo-paternalist-democracy = {}
@@ -291,6 +292,8 @@ ideologies = {
 			progressive-sanmin-paternalism={}
 			semidem-cm-liberalism = {}
 			semidem-progressivism = {}
+			warlord-poly = {}
+			military_junta = {}
 		}
 		dynamic_faction_names = {
 		}
@@ -348,6 +351,7 @@ ideologies = {
 			multinational-colony = {}
 			Edinogist_Colonization = {}
 			interim_government = {}
+			Caesaropapism = {}
 		}
 		
 		dynamic_faction_names = {
@@ -389,10 +393,10 @@ ideologies = {
 			Edinogism = {}
 			Dannunzionism_N={}
 			National_Populism={}
-			National_Syndicalism={}
+			National_Corporatism = {}
 			National_Militarism={}
-			Reactionist_National_Corporatism = {}
 			Na-Big-tent = {}
+			fascism = {}
 		}
 		
 		dynamic_faction_names = {
@@ -427,9 +431,9 @@ ideologies = {
 	}
 	
 	###新反动主义###
-	Ultrareactionism = {
+	Neoreactionism = {
 		types = {
-			Ultrareactionism={}
+			Neoreactionism={}
 		}
 		dynamic_faction_names = {
 		}

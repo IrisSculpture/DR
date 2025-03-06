@@ -11,9 +11,8 @@ state=
 	}
 	history=
 	{
-		owner = DMT
-		add_core_of = DMT
-		add_claim_by = KOH
+		owner = KOH
+		add_core_of = KOH
 		buildings = {
 			infrastructure = 1 #was: 5
 			industrial_complex = 1

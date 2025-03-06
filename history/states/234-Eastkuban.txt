@@ -1,0 +1,37 @@
+
+state={
+	id=234
+	name="STATE_234"
+	manpower = 753371
+	
+	state_category = city
+	resources={
+		tungsten=5 
+		oil=4 
+	}
+	resources={
+		grain=8
+	}
+	history={
+		owner = SHW
+		
+		
+		victory_points = {
+			11696 15
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+			
+		}
+		add_core_of = SHW
+	}
+
+	provinces={
+		 735    3752  6736 6738   6768 6781 9694  9709  11681  9726 11696 
+		           
+		 
+	}
+
+	local_supplies=9.0 
+}

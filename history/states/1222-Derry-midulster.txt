@@ -8,7 +8,7 @@ state={
 	
 	history={
 		owner = IRL
-		
+		add_dynamic_modifier = {modifier=IRL_Furious_Alster}
 		
 		buildings = {
 			infrastructure = 3
@@ -24,12 +24,13 @@ state={
 			13374 20
 		}
 		add_core_of = IRL
+		add_claim_by = ENL
 	}
 	
 	provinces={
 		13373 13374
 	}
-	manpower=1198537
+	manpower=308537
 	buildings_max_level_factor=1
 	state_category="city"
 	

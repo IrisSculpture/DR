@@ -8,7 +8,7 @@ state={
 		owner = GGZ
 		add_core_of = ROC
 		victory_points = {
-			13383 25
+			13383 30
 		}
 		buildings = {
 			infrastructure = 4 

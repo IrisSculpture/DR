@@ -163,6 +163,7 @@ give_guarantee = SZC
 give_guarantee = PHL
 give_guarantee = GGZ
 give_guarantee = MUH
+give_guarantee = KON
 
 set_politics = {
 	ruling_party = Liberalism

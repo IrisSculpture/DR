@@ -15,7 +15,6 @@ set_technology = {
 recruit_character = CEX_CaiEr
 recruit_character = CEX_HeLong
 recruit_character = CEX_ZhuDe
-recruit_character = CEX_tangjiyao
 recruit_character = CEX_LuHan
 recruit_character = CEX_LongYun
 recruit_character = CEX_TangHuaiYuan
@@ -68,5 +67,5 @@ set_popularities = {
 }
 set_autonomy = {
 	target = LXS
-	autonomy_state =  autonomy_integrated_puppet
+	autonomy_state =  autonomy_supervised_state
 }

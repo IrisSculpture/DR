@@ -22,7 +22,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=Ultrareactionism
+			ideology=Neoreactionism
 			#desc = FRW_Pierre_Monatte_desc
 			traits={  } 
 			expire="1965.1.1.1"
@@ -173,7 +173,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=National_Syndicalism
+			ideology=National_Corporatism
 			traits={  }
 			expire="1965.1.1.1"
 			id=-1

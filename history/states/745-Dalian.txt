@@ -7,12 +7,12 @@ state={
 	state_category = large_city
 	history=
 	{
-		owner = SHW
+		owner = VFE
 		add_core_of = FTX
 		add_core_of = CHI
 		add_core_of = ROC
 		victory_points = {
-			1150 8
+			1150 13
 		}
 		buildings = {
 			infrastructure = 3 #was: 5

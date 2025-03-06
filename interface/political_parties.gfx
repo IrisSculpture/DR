@@ -44,7 +44,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/Hybrid_Nationalism.dds"
 	}
 	spriteType = { 
-		name = "GFX_ideology_Ultrareactionism_group" 
+		name = "GFX_ideology_Neoreactionism_group" 
 		texturefile = "gfx/interface/ideologies/Reactionary.dds"
 	}
 

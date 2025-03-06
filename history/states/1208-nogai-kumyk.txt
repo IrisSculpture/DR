@@ -2,7 +2,7 @@
 state={
 	id = 1208
 	name = "STATE_1208" #nogai-kumyk
-	manpower = 735829
+	manpower = 25829
 	
 	state_category = rural
 	
@@ -23,7 +23,7 @@ state={
 	}
 
 	provinces = {
-		13363 683
+		683
 	}
 
 	local_supplies = 0.0 

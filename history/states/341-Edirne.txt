@@ -13,7 +13,7 @@ state= {
 		owner = YED
 		add_core_of = YED
 		victory_points = {
-			11842 5
+			11842 12
 		}
 		victory_points = { #Burgas
 			9902 3

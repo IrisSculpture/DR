@@ -4,6 +4,8 @@ capital = 413
 oob = "MUH_1920"
 #军队数据，若暂时没有，可以在oob前面加上#注释掉 
 
+recruit_character = MUH_Khazal_Ibn_Jabir
+
 set_technology = {
 	infantry_weapons = 1
 	mass_assault = 1

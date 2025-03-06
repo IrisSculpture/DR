@@ -10,10 +10,10 @@ state={
 		add_core_of = EYJ
 		
 		victory_points = {
-			12473 3 
+			12473 8
 		}
 		victory_points = {
-			1056 1 
+			1056 5 
 		}
 		buildings = {
 			infrastructure = 2
