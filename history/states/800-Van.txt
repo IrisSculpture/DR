@@ -18,7 +18,7 @@ state={
 	}
 
 	provinces={
-		 6935 12318 864 13410
+		 6935 12318 864 13410 13121
 	}
 	manpower = 219294
 	state_category = rural
