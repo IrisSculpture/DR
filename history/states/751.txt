@@ -2,8 +2,7 @@ state={
 	id=751
 	name="建昌"
 	provinces={
-		2067
-		 10726 7294
+		2067 10726 7294
 	}
 	resources={
 		grain=21
