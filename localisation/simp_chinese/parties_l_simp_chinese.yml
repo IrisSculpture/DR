@@ -111,8 +111,8 @@
  Populist_socialism:0 "民粹社会主义"
  Populist_socialism_desc:0 ""
 
- Socialist_Popular_Revolution:0 "社会主义国民革命"
- Socialist_Popular_Revolution_desc:0 "社会主义国民革命"
+ Socialist_Popular_Revolution:0 "社会国民革命"
+ Socialist_Popular_Revolution_desc:0 "社会国民革命"
 
  Revolutionary_Syndicalism:0 "革命工团主义"
  Revolutionary_Syndicalism_desc:0 "§Y革命工团主义§!\n革命工团主义主张以无产工人组织成的工人团体来发动革命、领导社会、组织生产和掌握权力。这派革命者通常认为经过良好教育并且进行过实际生产的工人群众能有力地代表、领导无产阶级，并且能自发地做出相较其他阶级和无产阶级其他群体更理智、更符合全体无产阶级利益的决策。"
@@ -218,6 +218,9 @@
  
  radicalism:0 "激进主义"
  radicalism_desc:0 ""
+
+ jadidism:0 "扎吉德主义"
+ jadidism_desc:0 ""
 
 ##保守主义
  Conservatism:0 "保守主义"
@@ -953,7 +956,7 @@ FUM_Nationalism_party:0 "朱里亚蒂内阁"
 FUM_Nationalism_party_nazi:0 "意大利民族主义协会"
 FUM_Moderate_Socialism_party:0 "意大利社会党(最高纲领派)"
 FUM_Revolutionism_party:0 "革命行动法西斯(革命工团派)"
-FUM_Revolutionism_party_LON:0 "意大利社会党(新秩序派)"
+FUM_Revolutionism_party_CH:0 "意大利社会党(纯粹派)"
 FUM_Revolutionism_party_MAS:0 "意大利社会党(最高纲领派)"
 
 ICD_Liberalism_party:0 "那不勒斯独裁政府"
@@ -1044,7 +1047,7 @@ PAR_Dictatorship_party:0 "立宪军"
 ITC_Liberalism_party:0 "行动党"
 ITC_Reformism_party:0 "意大利社会党(改良派)"
 ITC_Moderate_Socialism_party:0 "意大利社会党(最高纲领派)"
-ITC_Revolutionism_party:0 "意大利社会党(最高纲领派-新秩序派)"
+ITC_Revolutionism_party:0 "意大利社会党(最高纲领派-纯粹派)"
 ITC_Nationalism_party:0 "意大利民族主义协会"
 
 PHL_Dictatorship_party:0 "马格达洛委员会"

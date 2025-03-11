@@ -143,9 +143,17 @@ KGL_Witold_Korytowski2:0 "维托尔德·科里托夫斯基"
 
 CHI_Song_JiaoRen:0 "宋教仁"
 
+ROC_li_liejun:0 "李烈钧"
+
+ROC_he_yingqin:0 "何应钦"
+
 ROC_HuangXing:0 "黄兴"
 
+ROC_HuangXing_gen:0 "黄兴"
+
 ROC_SunWen1:0 "孙文"
+ROC_SunWen2:0 "孙文"
+ROC_SunWen3:0 "孙文"
 
 MIL_Giuseppe_Visconti_di_Modrone:0 "朱塞佩二世"
 
@@ -258,6 +266,14 @@ USR_Piatakov:0 "格奥尔基·皮达可夫"
 SSD_ChenXiaLing:0 "陈遐龄"
 
 SHH_ChenQiMei:0 "陈其美"
+
+XJC_liu_xizeng:0 "刘希曾"
+
+XJC_yulbars_khan:0 "尧乐博斯汗"
+
+XJC_zhang_peiyuan:0 "张培元"
+
+ROC_zhang_jingjiang:0 "张静江"
 
 XJC_FengTeMing:0 "冯特民"
 
@@ -453,8 +469,6 @@ AGC_Alsace_Geman_Condominium:0 "德意志邦联共管区委员会"
 SXX_LuJianZhang:0 "陆建章"
 
 SXX_ZhangFenghui:0 "张凤翙"
-
-SXX_FengYuXiang:0 "冯玉祥"
 
 SXX_ChenShuPang:0 "陈树籓"
 
@@ -803,6 +817,8 @@ MSS_tribal_council:0 "停战八国"
 
 NTS_tribal_council:0 "伊斯玛仪苏莱曼尼派"
 
+ROC_wangzhaoming:0 "汪兆铭"
+
 ROC_Song_JiaoRen:0 "宋教仁"
 ROC_Song_JiaoRen_DESC:0 "§G生于：§ §W1882年4月5日§ \n§G故乡：§ §W湖南省常德市桃源县§ \n\n\n清光绪八年,宋教仁出生于湖南常德桃源。1901年,宋教仁考中秀才,以成绩第一的身份被美国圣公会文华书院普通中学堂所录取,在校期间,吴禄贞等人组织的革命团体在武昌花园山的聚会吸引了他,时常与同学议论时政,关心国家的危亡。1904年2月25日,以“驱除鞑虏,恢复中华”为宗旨的华兴会在长沙西园正式成立,众人选黄兴为会长,宋教仁为副会长。\n\n1917年10月6日,武昌起义爆发,黎元洪出任中华民国军政府鄂军都督府都督,任宋教仁为法制院院长,起草了宪法草案《中华民国临时政府组织法》,在宋教仁的主持经营下,国民党取得重大胜利。众议院议员596人,国民党得269议席。1918年初湖北军政府举行了临时大总统的选举。选举孙中山为领袖。10月6日,参政院召开“国民代表大会”,国民代表一律“赞成”君主立宪,并推定参政院为国民大会总代表,上书推戴袁世凯为中华帝国皇帝。\n\n孙中山迫于压力,被迫让位于袁世凯,同年12月,袁世凯派使刺客将孙中山暗杀,国民党上下顿时群龙无首,众人选举宋教仁为新一任国民党主席。北京政变后,冯国璋推翻了袁世凯,成立了直隶总督署。中华大地陷入了军阀相争的时代......"
 
@@ -966,7 +982,7 @@ FTX_Mark_leniko:0 "马克连尼阔"
 
 FTX_Kostrov:0 "阔斯特洛夫"
 
-ZHX_Fen_YuXiang:0 "冯玉祥"
+ZHX_Feng_YuXiang:0 "冯玉祥"
 
 GUG_BaiChongXi:0 "白崇禧"
 
@@ -1049,6 +1065,8 @@ COS_Juan_Bautista_Quiros_Segura:0 "胡安·塞古拉"
 ROC_HuHanMin:0 "胡汉民"
 
 ROC_JiangBaiLi:0 "蒋百里"
+
+ROC_JiangZhongZheng:0 "蒋中正"
 
 ROC_SunKe:0 "孙科"
 
@@ -1167,7 +1185,7 @@ ZHX_Li_HongYuan:0 "黎洪元"
 
 GUI_WangZhangYuan:0 "王占元"
 
-ROC_ZhangZhiZhong:0 "张自忠"
+ZHX_ZhangZiZhong:0 "张自忠"
 
 WWS_Gregor_Strasser:0 "施特拉赛"
 

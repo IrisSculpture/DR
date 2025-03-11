@@ -39,6 +39,22 @@ characters={
 			id=-1
 		}
 	}
+	XJC_zhang_peiyuan = {
+		name = XJC_zhang_peiyuan
+		portraits = {
+			army = {
+				large = "gfx/leaders/XJC/Portrait_Zhang_Peiyuan.tga"
+			}
+		}
+		corps_commander = {
+			traits = { brilliant_strategist trickster hill_fighter }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
 	XJC_Masud_Sabri={
 		name=XJC_Masud_Sabri
 		portraits={
@@ -47,7 +63,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=sanmin-paternalism
+			ideology=jadidism
 			traits={  }
 			expire="1965.1.1.1"
 			id=-1
@@ -78,7 +94,39 @@ characters={
 			id=-1
 		}
 	}
-	
+	XJC_yulbars_khan = {
+		name = XJC_yulbars_khan
+		portraits = {
+			army = {
+				large = "gfx/leaders/XJC/Portrait_Kumul_Yulbars_Khan.tga"
+			}
+		}
+		corps_commander = {
+			traits = { cavalry_officer politically_connected desert_fox }
+			skill = 3
+			attack_skill = 4
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 2
+		}
+	}
+	XJC_liu_xizeng = {
+		name = XJC_liu_xizeng
+		portraits = {
+			army = {
+				
+				large = "gfx/leaders/XJC/Portrait_Kumul_Liu_Xiceng.tga"
+			}
+		}
+		corps_commander = {
+			traits = { trait_reckless trickster }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 3
+		}
+	}
 
 	XJC_ShengShiCai={
 		name=XJC_ShengShiCai

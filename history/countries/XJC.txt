@@ -22,6 +22,8 @@ recruit_character = XJC_jinshuren
 recruit_character = XJC_Zhouwuxue
 recruit_character = XJC_zhang_peiyuan
 recruit_character = XJC_yang_feixia
+recruit_character = XJC_yulbars_khan
+recruit_character = XJC_liu_xizeng
 
 
 set_country_flag = parliament_mian_button_yes

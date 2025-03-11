@@ -193,6 +193,7 @@ ideologies = {
 			agarian-liberalism = {}
 			socialist-liberalism = {}
 			radicalism = {}
+			Jadidism = {}
 		}
 		
 		dynamic_faction_names = {
