@@ -4,7 +4,6 @@ characters={
 		portraits={
 		army={
 			large="gfx/leaders/TGA/Portrait_Alexei_Kuropatkin.tga"
-			small="gfx/interface/ideas/Portrait_Alexei_Kuropatkin.dds"
 		}
 	}
 	country_leader={

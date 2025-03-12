@@ -13,6 +13,7 @@ set_technology = {
 }
 
 recruit_character = KEI_Carl_Gustaf_Emil_Mannerheim
+recruit_character = KEI_boris_annenkov
 	set_technology = {
 		interwar_artillery = 1
 		infantry_weapons1 = 1
