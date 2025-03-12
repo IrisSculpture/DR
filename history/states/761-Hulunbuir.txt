@@ -11,8 +11,9 @@ state={
 	buildings_max_level_factor=1.000
 	state_category = pastoral
 	history={
-		owner = VFE
+		owner = MEG
 		add_core_of = HLP
+		add_core_of = MEG
 		buildings = {
 			infrastructure = 1
 

@@ -345,6 +345,9 @@ create_intelligence_agency = {
 		icon = GFX_intelligence_agency_logo_SHW
 }
 give_guarantee = KON
+give_guarantee = HLP
+give_guarantee = JLP
+give_guarantee = FTX
 set_politics = {
 	ruling_party = Dictatorship
 	last_election = "1918.11.11"
@@ -356,10 +359,7 @@ set_autonomy = {
 	autonomy_state = autonomy_general_governorate
 }
 
-set_autonomy = {
-	target = VFE
-	autonomy_state = autonomy_general_governorate
-}
+
 
 set_autonomy = {
 	target = TGA

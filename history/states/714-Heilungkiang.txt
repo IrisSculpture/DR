@@ -5,7 +5,7 @@ state={
 		grain=15
 	}
 	history={
-		owner = VFE
+		owner = HLP
 		add_core_of = HLP
 		buildings = {
 			infrastructure = 2

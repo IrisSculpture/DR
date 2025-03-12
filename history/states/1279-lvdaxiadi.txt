@@ -10,7 +10,7 @@ state={
 	}
 	history=
 	{
-		owner = VFE
+		owner = FTX
 		add_core_of = FTX
 		
 		buildings = {
@@ -25,7 +25,7 @@ state={
 		victory_points = {
 			964 8 
 		}
-
+		set_demilitarized_zone = yes
 	
 	}
 	manpower=500000
