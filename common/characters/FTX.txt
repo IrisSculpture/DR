@@ -43,7 +43,7 @@ FTX_Zhang_Zuolin={
 			}
 		}
 		country_leader={
-			ideology=warlord-poly
+			ideology=monarch-restorationism
 			traits={  }
 			expire="1965.1.1.1"
 			id=-1

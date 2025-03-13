@@ -435,6 +435,7 @@ ideologies = {
 	Neoreactionism = {
 		types = {
 			Neoreactionism={}
+			monarch-restorationism = {}
 		}
 		dynamic_faction_names = {
 		}

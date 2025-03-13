@@ -19,7 +19,7 @@ state={
 		}
 		
 		victory_points = {
-			1502 15 
+			1502 11
 		}
 		
 		victory_points = {
@@ -30,7 +30,7 @@ state={
 			10368 5 
 		}
 		victory_points = {
-			7832 16 
+			7832 10
 		}
 		
 	}

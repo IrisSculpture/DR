@@ -373,7 +373,8 @@ Caesaropapism_desc:0 ""
  fascism_desc:0 ""
 
 ####新反动主义
-
+monarch-restorationism:0 "君主复辟主义"
+monarch-restorationism_desc:0 ""
 
 ###各国政党
 
@@ -624,8 +625,8 @@ DUQ_Dictatorship_party_long:0 "中华民国参谋本部"
 DUQ_Liberalism_party:0 "国民党北方局"
 DUQ_Revolutionism_party:0 "社会党北方局"
 
-JLP_Dictatorship_party:0 "吉林省长公署"
-JLP_Dictatorship_party_long:0 "吉林省长公署"
+JLP_Paternalism_party:0 "吉林省长公署"
+JLP_Dictatorship_party:0 "俄驻吉林总管公署"
 
 GUI_Paternalism_party:0 "进步党湖北支部"
 GUI_Paternalism_party_long:0 "进步党湖北支部"
@@ -678,11 +679,12 @@ SUC_Liberalism_party_long:0 "国民党浙江支部"
 SUC_Revolutionism_party:0 "社会党浙江支部"
 
 HLP_Paternalism_party:0 "黑龙江省长公署"
-HLP_Paternalism_party_long:0 "黑龙江省长公署"
-HLP_Dictatorship_party:0 "黑龙江陆军第1师"
+HLP_Neoreactionism_party:0 "黑龙江陆军第1师"
+HLP_Dictatorship_party:0 "俄驻黑龙江总管公署"
 
-FTX_Dictatorship_party:0 "奉天陆军实力派"
+FTX_Neoreactionism_party:0 "奉天陆军实力派"
 FTX_Paternalism_party:0 "奉天皖系"
+FTX_Dictatorship_party:0 "俄驻奉天总管公署"
 
 HNZ_Paternalism_party:0 "河南省长公署"
 HNZ_Paternalism_party_long:0 "河南省长公署"

@@ -83,7 +83,8 @@ completely_illiterate
 Smallholder_economy
 }
 set_popularities = {
-	Paternalism = 46
-	Dictatorship = 54
+	Paternalism = 27.6
+	Neoreactionism = 32.4
+	Dictatorship = 40
 }
 give_military_access = SHW

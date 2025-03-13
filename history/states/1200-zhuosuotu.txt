@@ -1,7 +1,7 @@
 
 state = {
-	id = 1276
-	name = "STATE_1276"
+	id = 1200
+	name = "STATE_1200"
 	manpower = 93420
 	resources={
 		grain=11

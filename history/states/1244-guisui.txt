@@ -1,6 +1,6 @@
 state={
-	id=1275
-	name="STATE_1275"
+	id=1244
+	name="STATE_1244"
 	resources={
 		grain=3
 	}

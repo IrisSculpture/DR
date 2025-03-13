@@ -14,7 +14,7 @@ state = {
 	}
 
 	provinces = {
-		1479 1576 1614 4488 4618 13416
+		1479 1576 1614 4488 4618 13416 13419
 	}
 	
 	manpower = 18430 #Was 516860 but was divided by 2 due to Khiva (831) becoming a new state 

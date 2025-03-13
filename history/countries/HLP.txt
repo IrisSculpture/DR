@@ -55,7 +55,8 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	Paternalism = 47
-	Dictatorship = 53
+	Paternalism = 31.8
+	Neoreactionism = 28.2
+	Dictatorship = 40
 }
 give_military_access = SHW
