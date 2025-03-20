@@ -797,6 +797,18 @@ country_event = {
 	}
 }
 country_event = {
+	id = aushun.10
+	title = aushun.10.t
+	desc = aushun.10.d
+	picture = GFX_austria_1_pict
+	fire_only_once = no
+	is_triggered_only = yes
+	option = {
+		name = aushun.10.a
+		news_event = WorldNew.23
+	}
+}
+country_event = {
 	id = aus4italian.1
 	title = aus4italian.1.t
 	desc = aus4italian.1.d

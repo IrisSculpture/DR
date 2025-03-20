@@ -856,20 +856,20 @@ news_event = {
 	}		
 }
 
-##news_event = {
-##	id = WorldNew.23
-##	title = WorldNew.23.t
-##	desc = WorldNew.23.d
+news_event = {
+	id = WorldNew.23
+	title = WorldNew.23.t
+	desc = WorldNew.23.d
 	
-##	major = yes
-##	is_triggered_only = yes
+	major = yes
+	is_triggered_only = yes
 
    
 
-##	option = {
-##		name = WorldNew.23.a
-##	}		
-##}
+	option = {
+		name = WorldNew.23.a
+	}		
+}
 news_event = {
 	id = WorldNew.24
 	title = WorldNew.24.t

@@ -525,16 +525,30 @@ illyrian_war_end_qwq = {
          #       }
          #   }
             AOX = { set_autonomy = { target = DMT autonomy_state = autonomy_Crown_Territory } }
-                DMT = {
-                    set_politics = {ruling_party = Dictatorship}
-                    set_popularities = {
-                        Liberalism = 25
-                        Nationalism = 25
-                        Dictatorship = 40
-                        Revolutionism = 10
-                    }
+            DMT = {
+                set_politics = {
+                    ruling_party = Dictatorship
+                    last_election = "1918.11.11"
+                    election_frequency = 72
+                    elections_allowed = no
                 }
-                KOH = { country_event = aushun.9 }
+                
+                set_popularities = {
+                    Paternalism = 20
+                    Dictatorship = 80
+                }
+            
+            }
+            KOH = {
+                retire_country_leader = yes
+            }
+                if = {
+                    limit = {
+                        check_variable = { global.illyrian_cro_win = 0 }
+                    }
+                    KOH = { country_event = aushun.9 }
+                }
+                
        #}
         #else = {
             # DMT = {

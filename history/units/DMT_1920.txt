@@ -87,7 +87,7 @@ units = {
 			is_name_ordered = yes
 			name_order = 4
 		}
-		location = 6647
+		location = 11564
 		division_template = "Pučki pješačka divizija"
 		start_experience_factor = 0.1
 	}
@@ -97,7 +97,7 @@ units = {
 			is_name_ordered = yes
 			name_order = 5
 		}
-		location = 11580
+		location = 11564
 		division_template = "Pučki pješačka divizija"
 		start_experience_factor = 0.1
 	}
@@ -107,7 +107,7 @@ units = {
 			is_name_ordered = yes
 			name_order = 19
 		}
-		location = 3617
+		location = 11564
 		division_template = "Pučki pješačka divizija"
 		start_experience_factor = 0.2
 	}
