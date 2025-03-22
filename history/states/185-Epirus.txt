@@ -18,7 +18,7 @@ state={
 			3914 3
 		}
 		victory_points = {
-			10203 1
+			10203 2
 		}
 		
 		owner = YED

@@ -23,11 +23,9 @@ state={
 			infrastructure = 3
 			air_base = 3
 			657 = {
-				naval_base = 8
+				naval_base = 3
 			}
-			687 = {
-				naval_base = 1
-			}
+			
 			dockyard = 1
 		}
 	}
