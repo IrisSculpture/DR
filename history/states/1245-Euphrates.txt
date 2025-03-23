@@ -14,7 +14,7 @@ state={
 		add_claim_by = TEQ
 		
 		victory_points = {
-			7620 10
+			7620 5
 		}
 		
 		buildings = {

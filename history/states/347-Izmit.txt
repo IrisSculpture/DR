@@ -15,7 +15,7 @@ state={
 		add_core_of = YED
 		add_core_of = TEQ
 		victory_points = {
-			904 1 
+			904 5
 		}
 		victory_points = {
 			11866 10
