@@ -7,18 +7,17 @@ state={
 	state_category = rural
 
 	history={
-		owner = YEL
+		owner = SHW
 		add_core_of = YEL
 		buildings = {
 			infrastructure = 2
 		}
-		victory_points = {
-			4901 3
-		}
+		
 	}
 
 	provinces={
-		4609 4637 4901 2071 4553 4825 10454 10523 12793 12861
+		
+		4609 4637
 	}
 
 	local_supplies=3.0 

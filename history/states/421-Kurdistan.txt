@@ -11,14 +11,12 @@ state={
 	history={
 		owner = YEL
 		victory_points = {
-			4943 5
+			4943 8
 		}
 		victory_points = {
-			5098 3
+			5098 5
 		}
-		victory_points = {
-			1822 3 
-		}
+		
 		buildings = {
 			infrastructure = 2
 		}
@@ -26,7 +24,7 @@ state={
 	}
 
 	provinces={
-		829 4943 5098 9816 12773 1822
+		829 4943 5098 9816 12773
 	}
 
 	local_supplies=0.0 
