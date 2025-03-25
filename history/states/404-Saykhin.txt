@@ -9,7 +9,10 @@ state = {
 		add_core_of = AKE
 		
 		victory_points = {
-			7597 1 
+			7597 4 
+		}
+		victory_points = {
+			12397 6
 		}
 		buildings = {
 			infrastructure = 1
